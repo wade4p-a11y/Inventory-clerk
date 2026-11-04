@@ -1,5 +1,8 @@
 # Inventory Clerk (Lake Cowal)
 
+**For Dad: start here → [`HANDOFF.md`](./HANDOFF.md)**  
+(checklist: GitHub access, clone, first wireless APK, day-to-day rebuilds — no USB)
+
 Android-first Expo app for on-site inventory audits: photograph stock, tag fields, keep everything offline, then **email an Excel (.xlsx)** workbook (+ photos) so files can land in corporate Google Drive workflows.
 
 ## Stack
